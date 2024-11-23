@@ -1,0 +1,91 @@
+{
+"Sofas":
+	{"IKIRU":"https://ikiru.in/search?type=product&q=sofa*",
+	  "LivingShapes":"https://livingshapes.in/search?q=sofa",
+	  "RoyalOak":"https://www.royaloakindia.com/living/sofas.html"},
+"Beds":
+	{"IKIRU":"https://ikiru.in/search?type=product&q=beds*",
+	  "LivingShapes":"https://livingshapes.in/search?q=bed",
+	  "RoyalOak":"https://www.royaloakindia.com/bedroom/beds.html"},
+"Dining Tables":
+	{"IKIRU":"https://ikiru.in/search?type=product&q=dining*+table*",
+	  "LivingShapes":"https://livingshapes.in/search?q=dining+table&_pos=1&_psq=dini&_ss=e&_v=1.0",
+	  "RoyalOak":"https://www.royaloakindia.com/dining/dining-tables-sets.html"},
+"Chairs":
+	{"IKIRU":"https://ikiru.in/search?type=product&q=chairs*",
+	  "LivingShapes":"https://livingshapes.in/search?q=chair",
+	  "RoyalOak":"https://www.royaloakindia.com/catalogsearch/result/?q=chair"},
+"Cabinets":
+	{"IKIRU":"https://ikiru.in/search?type=product&q=cabinets*",
+	  "LivingShapes":"https://livingshapes.in/collections/autumn-sale-on-storage-benches",
+	  "RoyalOak":"https://www.royaloakindia.com/catalogsearch/result/?q=cabinets"},
+"Coffee Tables":
+	{"IKIRU":"https://ikiru.in/search?type=product&q=coffee*+table*",
+	  "LivingShapes":"https://livingshapes.in/search?q=coffee+table",
+	  "RoyalOak":"https://www.royaloakindia.com/living/center-table.html"},
+"Recliners":
+	{"IKIRU":"https://ikiru.in/search?type=product&q=armchair*",
+	  "LivingShapes":"https://livingshapes.in/search?q=armchair&_pos=1&_psq=arm&_ss=e&_v=1.0",
+	  "RoyalOak":"https://www.royaloakindia.com/living/recliners.html"},
+"Wall Art":
+	{"IKIRU":"https://ikiru.in/collections/wall-art",
+	  "LivingShapes":"https://livingshapes.in/search?q=wall+art",
+	  "RoyalOak":"https://www.royaloakindia.com/decor/wall-decor/wall-arts.html"},
+"Mirrors":
+	{"IKIRU":"https://ikiru.in/search?type=product&q=mirrors*",
+	  "LivingShapes":"https://livingshapes.in/search?q=mirrors",
+	  "RoyalOak":"https://www.royaloakindia.com/catalogsearch/result/?q=mirrors"},
+"Clocks":
+	{"IKIRU":"https://ikiru.in/search?type=product&q=clocks*",
+	  "LivingShapes":"https://livingshapes.in/search?q=clocks",
+	  "RoyalOak":"https://www.royaloakindia.com/catalogsearch/result/?q=clock"},
+"Curtains":
+	{"IKIRU":"https://ikiru.in/search?type=product&q=curtain*",
+	  "LivingShapes":"https://livingshapes.in/search?q=candle+holder",
+	  "RoyalOak":"https://www.royaloakindia.com/catalogsearch/result/?q=curtain"},
+"Rugs":
+	{"IKIRU":"https://ikiru.in/search?type=product&q=rugs*",
+	  "LivingShapes":"https://livingshapes.in/search?q=rugs",
+	  "RoyalOak":"https://www.royaloakindia.com/catalogsearch/result/?q=carpets"},
+"Pillows":
+	{"IKIRU":"https://ikiru.in/search?type=product&q=pillows*",
+	  "LivingShapes":"https://livingshapes.in/search?q=pillows",
+	  "RoyalOak":"https://www.royaloakindia.com/catalogsearch/result/?q=pillows"},
+"Lighting":
+	{"IKIRU":"https://ikiru.in/search?type=product&q=lightings*",
+	  "LivingShapes":"https://livingshapes.in/search?q=lightings",
+	  "RoyalOak":"https://www.royaloakindia.com/decor/lighting.html"},
+"Patio Sets":
+	{"IKIRU":"https://ikiru.in/search?type=product&q=patio*+set*",
+	  "LivingShapes":"https://livingshapes.in/search?q=patio+set",
+	  "RoyalOak":"https://www.royaloakindia.com/outdoors/outdoor-furniture/patio-set.html"},
+"Garden Decor":
+	{"IKIRU":"https://ikiru.in/search?type=product&q=garden*+decor*",
+	  "LivingShapes":"https://livingshapes.in/search?q=garden+decor",
+	  "RoyalOak":"https://www.royaloakindia.com/catalogsearch/result/?q=garden%20decor"},
+"Shelves":
+	{"IKIRU":"https://ikiru.in/search?type=product&q=shelves*",
+	  "LivingShapes":"https://livingshapes.in/search?q=shelves",
+	  "RoyalOak":"https://www.royaloakindia.com/catalogsearch/result/?q=shelves"},
+"Shoe Racks":
+	{"IKIRU":"https://ikiru.in/search?type=product&q=shoe*+rack*",
+	  "LivingShapes":"https://livingshapes.in/search?q=vase",
+	  "RoyalOak":"https://www.royaloakindia.com/living/shoe-racks.html"},
+"Bookcases":
+	{"IKIRU":"https://ikiru.in/search?type=product&q=book*+case*",
+	  "LivingShapes":"https://livingshapes.in/search?q=bench&_pos=1&_psq=b&_ss=e&_v=1.0",
+	  "RoyalOak":"https://www.royaloakindia.com/catalogsearch/result/?q=book%20case"},
+"Office Chairs":
+	{"IKIRU":"https://ikiru.in/search?type=product&q=office*+chairs*",
+	  "LivingShapes":"https://livingshapes.in/search?q=study+chair&_pos=2&_psq=stud&_ss=e&_v=1.0",
+	  "RoyalOak":"https://www.royaloakindia.com/study-office/chairs/study-chairs.html"},
+"Desks":
+	{"IKIRU":"https://ikiru.in/search?type=product&q=desk*",
+	  "LivingShapes":"https://livingshapes.in/search?q=side+table&_pos=4&_psq=tab&_ss=e&_v=1.0",
+	  "RoyalOak":"https://www.royaloakindia.com/catalogsearch/result/?q=desk"},
+"Ottoman-Poufs":
+	{"IKIRU":"https://ikiru.in/collections/ottoman-poufs",
+	  "LivingShapes":"https://livingshapes.in/search?q=stool",
+	  "RoyalOak":"https://www.royaloakindia.com/catalogsearch/result/?q=ottoman%20poufs"}
+
+}

@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&display=swap');
+body{
+    background-color: #ccc9c9;
+}
+.searchbar{
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    justify-content: center;
+}
+.cat_pg {
+    display: grid;
+    flex-wrap: wrap;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 20px; /* Add spacing between grid items */
+    padding: 20px;
+    justify-content: flex-start;
+}
+
+.product-item {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    background-color: #fff;
+    width: 250px; /* Fixes width for each item */
+    margin: 10px 0; /* Optional margin for spacing */
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Center content horizontally */
+    padding: 10px;
+    text-align: center;
+}
+.tool_bar{
+
+}
+.image-container img {
+    width: 100%; /* Ensure image spans the full width of the container */
+    height:90%;
+    object-fit: cover;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+
+.product_details {
+    margin-top: 10px;
+}
+
+.product_name p {
+    margin: 5px 0;
+}
+.heading
+{
+    font-family: "Cinzel", serif;
+    font-optical-sizing: auto;
+    
+    font-style: italic;
+}

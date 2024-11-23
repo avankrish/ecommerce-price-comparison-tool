@@ -1,6 +1,6 @@
 # ecommerce-price-comparison-tool
-#A full-stack web application to compare prices of furniture and home decor products across multiple e-commerce platforms.
-#Features
+A full-stack web application to compare prices of furniture and home decor products across multiple e-commerce platforms.
+Features
 Search bar to find categories and view products.
 Filter options:
 Wishlist
